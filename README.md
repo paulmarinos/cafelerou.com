@@ -1,2 +1,2 @@
 # Mom & Pop's Bakery
-HTML Template
+Template for Bakery Website
