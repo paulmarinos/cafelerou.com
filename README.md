@@ -1,2 +1,2 @@
-# Mom & Pop's Bakery
-Template for Bakery Website
+# cafeserre.net
+cafeserre.net site
