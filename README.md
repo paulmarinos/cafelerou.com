@@ -1,3 +1,5 @@
-# Web Development project for Cafe Lerou Coffee Syrup Business
+# Cafe Lerou
+
+## web development project for a small business
 
 link: https://cafelerou.com
