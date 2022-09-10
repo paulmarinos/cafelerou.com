@@ -1,6 +1,6 @@
 # Cafe Lerou
 
 ## web development project
-for a small business that sells premium coffee syrups
+for a small business selling premium coffee syrups
 
 link: https://cafelerou.com
