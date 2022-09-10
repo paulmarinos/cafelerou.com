@@ -1,5 +1,5 @@
 # Cafe Lerou
 
-## web development project for a small business
+## small business web development project
 
 link: https://cafelerou.com
